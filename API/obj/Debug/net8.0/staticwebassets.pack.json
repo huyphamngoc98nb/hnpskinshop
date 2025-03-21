@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\chunk-J36TPSON.js",
+      "PackagePath": "staticwebassets\\chunk-J36TPSON.js"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\chunk-WDG5IPWY.js",
+      "PackagePath": "staticwebassets\\chunk-WDG5IPWY.js"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero1.jpg"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero2.jpg"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero3.jpg"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\hero4.png",
+      "PackagePath": "staticwebassets\\images\\hero4.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\main-DYEY56TO.js",
+      "PackagePath": "staticwebassets\\main-DYEY56TO.js"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\polyfills-FFHMD2TL.js",
+      "PackagePath": "staticwebassets\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Id": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\styles-MZFPRGV7.css",
+      "PackagePath": "staticwebassets\\styles-MZFPRGV7.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
