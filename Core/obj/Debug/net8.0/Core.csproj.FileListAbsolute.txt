@@ -10,3 +10,4 @@ D:\dotNET_learning_project\SkiShop\Core\obj\Debug\net8.0\refint\Core.dll
 D:\dotNET_learning_project\SkiShop\Core\obj\Debug\net8.0\Core.pdb
 D:\dotNET_learning_project\SkiShop\Core\obj\Debug\net8.0\ref\Core.dll
 D:\dotNET_learning_project\SkiShop\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\dotNET_learning_project\SkiShop\Core\obj\Debug\net8.0\Core.sourcelink.json

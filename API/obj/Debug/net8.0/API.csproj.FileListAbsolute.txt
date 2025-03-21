@@ -168,3 +168,4 @@ D:\dotNET_learning_project\SkiShop\api\bin\Debug\net8.0\Stripe.net.dll
 D:\dotNET_learning_project\SkiShop\API\bin\Debug\net8.0\Data\SeedData\delivery.json
 D:\dotNET_learning_project\SkiShop\API\bin\Debug\net8.0\Data\SeedData\products.json
 D:\dotNET_learning_project\SkiShop\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
+D:\dotNET_learning_project\SkiShop\api\obj\Debug\net8.0\API.sourcelink.json

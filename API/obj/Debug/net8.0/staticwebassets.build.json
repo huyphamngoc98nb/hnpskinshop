@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fTeqbcN1T9c1eSWWor1WCcU9zx9GTQ4OirjkN1Igp3c=",
+  "Hash": "HrhvkliYLPTCJ+vOjt/yE5scfWioR5FWUM5hDFBwmJc=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -568,12 +568,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\main-DYEY56TO.js",
+      "Identity": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\main-5HIS6VUP.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main-DYEY56TO.js",
+      "RelativePath": "main-5HIS6VUP.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,7 +584,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main-DYEY56TO.js"
+      "OriginalItemSpec": "wwwroot\\main-5HIS6VUP.js"
     },
     {
       "Identity": "D:\\dotNET_learning_project\\SkiShop\\api\\wwwroot\\polyfills-FFHMD2TL.js",

@@ -14,6 +14,7 @@ import { MatPaginator, PageEvent } from '@angular/material/paginator';
 import { ShopParams } from '../../shared/models/shopParams';
 import { Pagination } from '../../shared/models/pagination';
 import { FormsModule } from '@angular/forms';
+import { EmptyStateComponent } from "../../shared/components/empty-state/empty-state.component";
 
 @Component({
   selector: 'app-shop',
@@ -28,8 +29,9 @@ import { FormsModule } from '@angular/forms';
     MatListOption,
     MatMenuTrigger,
     MatPaginator,
-    FormsModule
-  ],
+    FormsModule,
+    EmptyStateComponent
+],
   templateUrl: './shop.component.html',
   styleUrl: './shop.component.scss'
 })
@@ -43,9 +45,9 @@ export class ShopComponent implements OnInit {
   // selectedTypes: string[] = [];
   // selectedSort: string = 'name';
   sortOptions = [
-    {name: 'Alphabetical', value: 'name'},
-    {name: 'Price: Low to High', value: 'priceAsc'},
-    {name: 'Price: High to Low', value: 'priceDesc'}
+    { name: 'Alphabetical', value: 'name' },
+    { name: 'Price: Low to High', value: 'priceAsc' },
+    { name: 'Price: High to Low', value: 'priceDesc' }
   ];
   shopParams = new ShopParams();
   pageSizeOptions = [5, 10, 15, 20];
@@ -60,7 +62,11 @@ export class ShopComponent implements OnInit {
     this.getProducts();
   }
 
-  getProducts(){
+  resetFilters() {
+    this.shopParams = new ShopParams();
+    this.getProducts();
+  }
+  getProducts() {
     this.shopService.getProducts(this.shopParams).subscribe({
       next: response => this.products = response,
       error: error => console.error(error),
@@ -73,7 +79,7 @@ export class ShopComponent implements OnInit {
     this.shopParams.pageNumber = 1;
     this.getProducts();
   }
-  
+
   handlePageEvent(event: PageEvent) {
     this.shopParams.pageNumber = event.pageIndex + 1;
     this.shopParams.pageSize = event.pageSize;
@@ -81,7 +87,7 @@ export class ShopComponent implements OnInit {
   }
 
   onSortChange(event: MatSelectionListChange) {
-    const selectedOption =  event.options[0];
+    const selectedOption = event.options[0];
     if (selectedOption) {
       this.shopParams.sort = selectedOption.value;
       this.shopParams.pageNumber = 1;
@@ -92,7 +98,7 @@ export class ShopComponent implements OnInit {
   openFiltersDialog() {
     const dialogRef = this.dialogService.open(FiltersDialogComponent, {
       minWidth: '500px',
-      data:{
+      data: {
         selectedBrands: this.shopParams.brands,
         selectedTypes: this.shopParams.types
       }
